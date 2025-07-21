@@ -32,9 +32,9 @@ Building a dashboard based on stakeholder expectations discussed in a comic-styl
 Generating additional insights beyond the stakeholder briefing to identify hidden patterns and problems
 
 ## Data Model
-<p align="center"> <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400"> </p>
+<p align="center"> <img src="https://github.com/bhaskaranalytics/Supply-Chain-Analysis/blob/main/Images/data_model.png" height="400"> </p>
 ## Dashboard
-<p align="center"> <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300"> </p>
+<p align="center"> <img src="https://github.com/bhaskaranalytics/Supply-Chain-Analysis/blob/main/Images/Dashboard.jpg" width="300"> </p>
 ## Key Insights
 All three core service metrics (OT%, IF%, OTIF%) consistently fall below the set targets
 
@@ -51,3 +51,8 @@ Products like ghee, curd, and butter face the most frequent delays
 There’s no significant improvement in performance metrics over recent months
 
 A large gap in IF% suggests possible production or inventory issues
+## Conclusion
+This project provided valuable hands-on experience in solving real-world supply chain problems using data analysis and Power BI. By tracking OTIF metrics and identifying performance gaps, I was able to surface actionable insights that can help the business improve delivery reliability and customer satisfaction.
+
+The dashboard serves as a dynamic tool for the operations team to monitor daily service levels and respond quickly to any delivery or fulfillment issues—ultimately supporting better decision-making and long-term growth.
+
