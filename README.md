@@ -33,8 +33,10 @@ Generating additional insights beyond the stakeholder briefing to identify hidde
 
 ## Data Model
 <p align="center"> <img src="https://github.com/bhaskaranalytics/Supply-Chain-Analysis/blob/main/Images/data_model.png" height="400"> </p>
+
 ## Dashboard
 <p align="center"> <img src="https://github.com/bhaskaranalytics/Supply-Chain-Analysis/blob/main/Images/Dashboard.jpg" width="300"> </p>
+
 ## Key Insights
 All three core service metrics (OT%, IF%, OTIF%) consistently fall below the set targets
 
